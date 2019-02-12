@@ -1,0 +1,17 @@
+.peopleBlock {
+  display: inline-block;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 50px;
+}
+
+.searchBlock {
+  width: 200px;
+  margin-bottom: 20px;
+}
